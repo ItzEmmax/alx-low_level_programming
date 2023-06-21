@@ -22,8 +22,8 @@ int main(void)
 		if ((sum % 2) == 0)
 			total_sum += sum;
 
-		fib1 = fib2
-			fib2 = sum;
+		fib1 = fib2;
+		fib2 = sum;
 	}
 	printf("%.Of\n", total_sum);
 
