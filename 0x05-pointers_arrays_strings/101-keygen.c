@@ -49,7 +49,7 @@ int main(void)
 			{
 				password[index] -= diff_half2;
 
-				break
+				break;
 			}
 		}
 	}
